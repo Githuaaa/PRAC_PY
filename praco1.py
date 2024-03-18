@@ -1,0 +1,5 @@
+name = input("What is you name?: ")
+age = int (input("How old are you?:"))
+height = float (input("How tall are you?:"))
+location = input("Where do you live?:")
+print (f"Hello I am {name},I'm {age},I am {height}, and I live in {location}.")
